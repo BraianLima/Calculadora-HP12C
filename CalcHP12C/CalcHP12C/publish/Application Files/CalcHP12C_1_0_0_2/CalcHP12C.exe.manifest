@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CalcHP12C.exe" version="1.0.0.2" publicKeyToken="6fd455ea1fffc106" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CalcHP12C" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="CalcHP12C.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opções de Manifesto UAC
+          Se desejar mudar o nível de Controle de Conta de Usuário do Windows, substitua o 
+          nó requestedExecutionLevel por um dos seguintes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Se deseja usar a Virtualização de Arquivos e Registro para compatibilidade 
+         com versões anteriores, exclua o nó requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CalcHP12C.exe" size="60848">
+      <assemblyIdentity name="CalcHP12C" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>0CVdrY8DiQshdmR+QRp2j+o+PjIjTKTwXrNEneHz2ZI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CalcHP12C.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=BRAIAN\braian" issuerKeyHash="954b0b79fadf23a54d4768f5bfd503cdd9cdae8e" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>WZZzTMCkzvNTKP9QrZPt0A/fexqLCF5D2OxE4Ty2LPw=</DigestValue></Reference></SignedInfo><SignatureValue>QTskT2yxCkUW4TowF6nx5v8/i3qumm3eacJcW1TBL4ful37q7qP2mDJXdUVj99Nuc2jEq1F7bTpsy2uMTimpXYX2hFVt66UlZA6lwf1mhD5cN6OfUj/aYQJV1Y+rPVcTcShqFTdP6i7ETPbDGhRBYzeRFsIL4MHjqpXli2PdmlU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>2OBJny9QJlGkWy6V96ai/o949w1emH2rCEevGXjjqt2kbuiSJKlDZVubNh37y499TDZOUbPlMRRkeGY0ux51mG20Zkq32OkGU4OgdRKcMZfuroKOwTofQS6WNqLFx8bs3ww+NcmEebgwwAx+AB+1O6TiXdG6LPz0iWQNidfSwGU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="fc2cb63ce144ecd8435e088b1a7bdf0fd0ed93ad50ff2853f3cea4c04c739659" Description="" Url=""><as:assemblyIdentity name="CalcHP12C.exe" version="1.0.0.2" publicKeyToken="6fd455ea1fffc106" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=BRAIAN\braian</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>BnVYXOkX+1qVVXIfb34pxkWR01eg3I+U+ts7jeuzZaA=</DigestValue></Reference></SignedInfo><SignatureValue>d7uFAi2EWDLiSVqSt0szkTeysHtjFhnvQlvF5SntXYpM3Wd7L/N7FAOY9yIedNv6jcQehV69AMLUofMnUwBLlBwUHO3FhYV+UHfEVZUj8WUniY45Cj6XpPwDIQdOdf/HChqXiMwAZDjqZ5dq4PNR+Vzmu5UMTYbHrbg2xSZeV+A=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>2OBJny9QJlGkWy6V96ai/o949w1emH2rCEevGXjjqt2kbuiSJKlDZVubNh37y499TDZOUbPlMRRkeGY0ux51mG20Zkq32OkGU4OgdRKcMZfuroKOwTofQS6WNqLFx8bs3ww+NcmEebgwwAx+AB+1O6TiXdG6LPz0iWQNidfSwGU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQP6hXwkPTrbVLDfvO0vjzgzANBgkqhkiG9w0BAQsFADAlMSMwIQYDVQQDHhoAQgBSAEEASQBBAE4AXABiAHIAYQBpAGEAbjAeFw0xODA1MjUxODE3MDdaFw0xOTA1MjYwMDE3MDdaMCUxIzAhBgNVBAMeGgBCAFIAQQBJAEEATgBcAGIAcgBhAGkAYQBuMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDY4EmfL1AmUaRbLpX3pqL+j3j3DV6YfasIR68ZeOOq3aRu6JIkqUNlW5s2HfvLj31MNk5Rs+UxFGR4ZjS7HnWYbbRmSrfY6QZTg6B1Epwxl+6ugo7BOh9BLpY2osXHxuzfDD41yYR5uDDADH4AH7U7pOJd0bos/PSJZA2J19LAZQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAJQWGCzTSmxXw0LbcfOoUqJMB+m4LYAbP9jszVxYW99CxsUzzKFEmyAHq4Z2pqUv/dhX2klcO0Z4VENoNvZoy0uQbHFTRgiE0APTucB32BeV8Lw4W5quyn/tnDvgz5ohcNidqStoPsp4Jt3bOqqAnISJe/DjTMtIWFRo0Eb2XNAU</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

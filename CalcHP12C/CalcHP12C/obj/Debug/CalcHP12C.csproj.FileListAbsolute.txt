@@ -1,0 +1,59 @@
+C:\Users\braian\Documents\Documentos\3º Período\Estrutura de Dados\Aula 4 - Pilha\CalcHP12C\CalcHP12C\bin\Debug\CalcHP12C.exe.config
+C:\Users\braian\Documents\Documentos\3º Período\Estrutura de Dados\Aula 4 - Pilha\CalcHP12C\CalcHP12C\bin\Debug\CalcHP12C.exe
+C:\Users\braian\Documents\Documentos\3º Período\Estrutura de Dados\Aula 4 - Pilha\CalcHP12C\CalcHP12C\bin\Debug\CalcHP12C.pdb
+C:\Users\braian\Documents\Documentos\3º Período\Estrutura de Dados\Aula 4 - Pilha\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.csprojResolveAssemblyReference.cache
+C:\Users\braian\Documents\Documentos\3º Período\Estrutura de Dados\Aula 4 - Pilha\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.Properties.Resources.resources
+C:\Users\braian\Documents\Documentos\3º Período\Estrutura de Dados\Aula 4 - Pilha\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.csproj.GenerateResource.cache
+C:\Users\braian\Documents\Documentos\3º Período\Estrutura de Dados\Aula 4 - Pilha\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.csproj.CoreCompileInputs.cache
+C:\Users\braian\Documents\Documentos\3º Período\Estrutura de Dados\Aula 4 - Pilha\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.exe
+C:\Users\braian\Documents\Documentos\3º Período\Estrutura de Dados\Aula 4 - Pilha\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.pdb
+C:\Users\braian\Documents\Documentos\3º Período\Estrutura de Dados\Aula 4 - Pilha\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.CalcHP.resources
+C:\Users\braian\Documents\Documentos\3º Período\Estrutura de Dados\Aula 4 - Pilha\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.FormComandos.resources
+E:\CalcHP12C\CalcHP12C\bin\Debug\CalcHP12C.exe.config
+E:\CalcHP12C\CalcHP12C\bin\Debug\CalcHP12C.exe
+E:\CalcHP12C\CalcHP12C\bin\Debug\CalcHP12C.pdb
+E:\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.csprojResolveAssemblyReference.cache
+E:\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.CalcHP.resources
+E:\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.FormComandos.resources
+E:\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.Properties.Resources.resources
+E:\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.csproj.GenerateResource.Cache
+E:\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.csproj.CoreCompileInputs.cache
+E:\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.exe
+E:\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.pdb
+C:\Users\2016100624\Desktop\CalcHP12C\CalcHP12C\bin\Debug\CalcHP12C.exe.config
+C:\Users\2016100624\Desktop\CalcHP12C\CalcHP12C\bin\Debug\CalcHP12C.exe
+C:\Users\2016100624\Desktop\CalcHP12C\CalcHP12C\bin\Debug\CalcHP12C.pdb
+C:\Users\2016100624\Desktop\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.csprojResolveAssemblyReference.cache
+C:\Users\2016100624\Desktop\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.CalcHP.resources
+C:\Users\2016100624\Desktop\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.FormComandos.resources
+C:\Users\2016100624\Desktop\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.Properties.Resources.resources
+C:\Users\2016100624\Desktop\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.csproj.GenerateResource.Cache
+C:\Users\2016100624\Desktop\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.csproj.CoreCompileInputs.cache
+C:\Users\2016100624\Desktop\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.exe
+C:\Users\2016100624\Desktop\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.pdb
+E:\entrega\CalcHP12C\CalcHP12C\bin\Debug\CalcHP12C.exe.config
+E:\entrega\CalcHP12C\CalcHP12C\bin\Debug\CalcHP12C.exe
+E:\entrega\CalcHP12C\CalcHP12C\bin\Debug\CalcHP12C.pdb
+E:\entrega\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.csprojResolveAssemblyReference.cache
+E:\entrega\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.CalcHP.resources
+E:\entrega\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.FormComandos.resources
+E:\entrega\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.Properties.Resources.resources
+E:\entrega\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.csproj.GenerateResource.cache
+E:\entrega\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.csproj.CoreCompileInputs.cache
+E:\entrega\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.exe
+E:\entrega\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.pdb
+C:\Users\braian\Documents\CalcHP12C\CalcHP12C\bin\Debug\CalcHP12C.exe.config
+C:\Users\braian\Documents\CalcHP12C\CalcHP12C\bin\Debug\CalcHP12C.exe
+C:\Users\braian\Documents\CalcHP12C\CalcHP12C\bin\Debug\CalcHP12C.pdb
+C:\Users\braian\Documents\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.csprojResolveAssemblyReference.cache
+C:\Users\braian\Documents\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.CalcHP.resources
+C:\Users\braian\Documents\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.FormComandos.resources
+C:\Users\braian\Documents\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.Properties.Resources.resources
+C:\Users\braian\Documents\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.csproj.GenerateResource.cache
+C:\Users\braian\Documents\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.csproj.CoreCompileInputs.cache
+C:\Users\braian\Documents\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.exe
+C:\Users\braian\Documents\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.pdb
+C:\Users\braian\Documents\CalcHP12C\CalcHP12C\bin\Debug\CalcHP12C.exe.manifest
+C:\Users\braian\Documents\CalcHP12C\CalcHP12C\bin\Debug\CalcHP12C.application
+C:\Users\braian\Documents\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.exe.manifest
+C:\Users\braian\Documents\CalcHP12C\CalcHP12C\obj\Debug\CalcHP12C.application
